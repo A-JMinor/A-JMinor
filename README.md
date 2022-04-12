@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-JMinor
 - 👀 I’m interested in Chemical Engineering / Process Systems Engineering
-- 🌱 I’m currently learning about how to connect Phython and Apsen
+- 🌱 I’m currently learning about how to connect Python and Apsen
 - 📫 How to reach me annjoelle.minor@gmail.com
 
 <!---
